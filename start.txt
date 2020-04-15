@@ -1,4 +1,1 @@
 Test Git Quick Start demo
-ABCD GITHUB
-4567 LOCAL
-0123 GITHUB
