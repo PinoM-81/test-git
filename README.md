@@ -7,3 +7,5 @@ Tohle je změna provedená z GitHubu.
 ---
 Změna vzdálená.
 glfjglk
+---
+ABCD
