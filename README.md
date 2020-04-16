@@ -5,4 +5,5 @@ Tohle je změna provedená lokálně.
 ---
 Tohle je změna provedená z GitHubu.
 ---
-Změna lokální
+Změna vzdálená.
+glfjglk
